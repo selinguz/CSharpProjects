@@ -1,0 +1,12 @@
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\bin\Release\Egitimlerim.exe.config
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\bin\Release\Egitimlerim.exe
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\bin\Release\Egitimlerim.pdb
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\obj\Release\Egitimlerim.csprojAssemblyReference.cache
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\obj\Release\Egitimlerim.Form1.resources
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\obj\Release\Egitimlerim.Form2.resources
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\obj\Release\Egitimlerim.Form3.resources
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\obj\Release\Egitimlerim.Properties.Resources.resources
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\obj\Release\Egitimlerim.csproj.GenerateResource.cache
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\obj\Release\Egitimlerim.csproj.CoreCompileInputs.cache
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\obj\Release\Egitimlerim.exe
+C:\Users\selin\source\repos\Egitimlerim\Egitimlerim\obj\Release\Egitimlerim.pdb
