@@ -1,0 +1,10 @@
+C:\Users\Selin\source\repos\Fihrist\Fihrist\bin\Debug\Fihrist.exe.config
+C:\Users\Selin\source\repos\Fihrist\Fihrist\bin\Debug\Fihrist.exe
+C:\Users\Selin\source\repos\Fihrist\Fihrist\bin\Debug\Fihrist.pdb
+C:\Users\Selin\source\repos\Fihrist\Fihrist\obj\Debug\Fihrist.csprojAssemblyReference.cache
+C:\Users\Selin\source\repos\Fihrist\Fihrist\obj\Debug\Fihrist.Properties.Resources.resources
+C:\Users\Selin\source\repos\Fihrist\Fihrist\obj\Debug\Fihrist.csproj.GenerateResource.cache
+C:\Users\Selin\source\repos\Fihrist\Fihrist\obj\Debug\Fihrist.csproj.CoreCompileInputs.cache
+C:\Users\Selin\source\repos\Fihrist\Fihrist\obj\Debug\Fihrist.exe
+C:\Users\Selin\source\repos\Fihrist\Fihrist\obj\Debug\Fihrist.pdb
+C:\Users\Selin\source\repos\Fihrist\Fihrist\obj\Debug\Fihrist.Kisiler.resources
